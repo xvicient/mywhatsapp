@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyWhatsApp</string>
+    <string name="shortcutDisabledMessage">Disabled</string>
+</resources>
